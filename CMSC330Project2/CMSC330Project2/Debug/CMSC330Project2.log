@@ -1,0 +1,11 @@
+﻿  module3.cpp
+  operand.cpp
+C:\Users\saira\source\repos\CMSC330Project2\CMSC330Project2\literal.h(10,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  parse.cpp
+  subexpression.cpp
+  symboltable.cpp
+C:\Users\saira\source\repos\CMSC330Project2\CMSC330Project2\symboltable.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+  variable.cpp
+C:\Users\saira\source\repos\CMSC330Project2\CMSC330Project2\variable.cpp(14,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  CMSC330Project2.vcxproj -> C:\Users\saira\source\repos\CMSC330Project2\Debug\CMSC330Project2.exe
